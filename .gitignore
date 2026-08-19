@@ -1,0 +1,17 @@
+# Sistema local / IDE
+.vscode/
+.idea/
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
+
+# Configurações locais sensíveis
+.env
+.env.*
+
+# Dependências Node, caso sejam usadas localmente
+node_modules/
+
+# Dumps locais de base de dados
+*.bak
